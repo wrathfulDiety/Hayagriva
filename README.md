@@ -69,3 +69,11 @@ Hayagriva is licensed under the MIT License.
 * [BGP.he.net](https://bgp.he.net/)
 * [IPaddress module](https://docs.python.org/3/library/ipaddress.html)
 * [re module](https://docs.python.org/3/library/re.html)
+
+
+# To-Do:
+
+  Enhance IPv6 Support: Currently, Hayagriva primarily focuses on IPv4 addresses. To fully encompass the evolving IP landscape, we aim to expand its capabilities to effectively identify and enumerate IPv6 addresses associated with target organizations.
+
+
+  --wrathfulDiety
