@@ -75,5 +75,6 @@ Hayagriva is licensed under the MIT License.
 
   Enhance IPv6 Support: Currently, Hayagriva primarily focuses on IPv4 addresses. To fully encompass the evolving IP landscape, we aim to expand its capabilities to effectively identify and enumerate IPv6 addresses associated with target organizations.
 
+Add more recon sources.. 
 
   --wrathfulDiety
