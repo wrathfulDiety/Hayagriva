@@ -13,8 +13,8 @@ class bcolors:
 
 # Display fancy text banner
 def print_banner():
-    print(f"{bcolors.HEADER}{"Hayagriva"}{bcolors.ENDC}" +
-          f" by {bcolors.OKGREEN}{"WrathfulDiety"}{bcolors.ENDC}")
+    print(f"{bcolors.HEADER}{'Hayagriva'}{bcolors.ENDC}" +
+          f" by {bcolors.OKGREEN}{'WrathfulDiety'}{bcolors.ENDC}")
 
 # Generate a list of IP addresses within the specified subnet
 def generate_ips(ip_address, subnet_mask):
