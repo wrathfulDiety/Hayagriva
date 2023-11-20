@@ -34,12 +34,11 @@ Hayagriva requires the following Python libraries:
 * requests
 * bs4
 * ipaddress
-* re
 
 You can install these libraries using pip:
 
 ```bash
-pip install requests bs4 ipaddress re
+pip install requests bs4 ipaddress
 ```
 # Usage
 
